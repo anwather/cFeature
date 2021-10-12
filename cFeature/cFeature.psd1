@@ -16,7 +16,7 @@
     Author               = 'Anthony Watherston'
 
     # Company or vendor of this module
-    CompanyName          = 'Unknown'
+    CompanyName          = 'Microsoft'
 
     # Copyright statement for this module
     Copyright            = '(c) Microsoft. All rights reserved.'

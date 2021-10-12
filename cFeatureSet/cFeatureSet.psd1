@@ -4,7 +4,7 @@
     RootModule           = 'cFeatureSet.psm1'
 
     # Version number of this module.
-    ModuleVersion        = '0.0.1'
+    ModuleVersion        = '0.0.2'
 
     # Supported PSEditions
     # CompatiblePSEditions = @()
@@ -16,7 +16,7 @@
     Author               = 'Anthony Watherston'
 
     # Company or vendor of this module
-    CompanyName          = 'Unknown'
+    CompanyName          = 'Microsoft'
 
     # Copyright statement for this module
     Copyright            = '(c) Microsoft. All rights reserved.'
